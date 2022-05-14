@@ -5,9 +5,10 @@ avatar_filename: mvimg_20210910_173031.jpg
 bio: My research interests include Planning and scheduling, Timetabling,
   Discrete optimization, Heuristics and metaheuristics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Planning and scheduling
+  - Timetabling
+  - Discrete optimization
+  - Heuristics and metaheuristics.
 social:
   - icon: envelope
     icon_pack: fas
