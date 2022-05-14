@@ -7,8 +7,8 @@ summary: In order to study the unrelated parallel machine scheduling problem
 draft: false
 featured: false
 authors:
-  - amine
-  - taha
+  - admin
+  - taha-arbaoui
 tags:
   - Scheduling
   - Metaheuristics
