@@ -18,7 +18,7 @@ links:
   - url: https://drive.google.com/file/d/1cm-jl6LaGhl2Zkb4Qfa70SG0RLHgVzN_/view?usp=sharing
     name: Benchmark download
     icon_pack: fab
-    icon: fa-google-drive
+    icon: google-drive
 image:
   filename: example_rm_rj_sijk_cmax.png
   focal_point: Smart
