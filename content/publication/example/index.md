@@ -35,15 +35,20 @@ title: Efficient heuristics and metaheuristics for the unrelated parallel
   machine scheduling problem with release dates and setup times
 doi: ""
 featured: true
-tags: []
-projects: []
+tags:
+  - Scheduling
+  - Metaheuristics
+  - Benchmark
+projects:
+  - Rm | ri
+  - sijk | Cmax
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
