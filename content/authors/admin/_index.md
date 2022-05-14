@@ -5,9 +5,10 @@ avatar_filename: mvimg_20210910_173031.jpg
 bio: My research interests include scheduling, planning, constraints programming
   and artificial intelligence.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - scheduling
+  - planning
+  - constraints programming
+  - artificial intelligence
 social:
   - icon: envelope
     icon_pack: fas
