@@ -2,7 +2,7 @@
 widget: about
 widget_id: Team-taha
 headless: true
-weight: 125
+weight: 126
 title: Biography
 active: true
 author: taha-arbaoui
