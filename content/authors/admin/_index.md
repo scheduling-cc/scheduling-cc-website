@@ -32,7 +32,7 @@ education:
   courses:
     - course: MsC, Eng in computer science
       institution: Ecole Nationale Supérieure d'Informatique Alger
-      year: 2015
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
