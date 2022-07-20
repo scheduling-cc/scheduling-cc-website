@@ -33,7 +33,7 @@ url_source: ""
 url_video: ""
 title: Efficient heuristics and metaheuristics for the unrelated parallel
   machine scheduling problem with release dates and setup times
-doi: ""
+doi: 10.1145/3512290.3528857
 featured: true
 tags:
   - Scheduling
