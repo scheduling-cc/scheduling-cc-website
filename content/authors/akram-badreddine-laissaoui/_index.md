@@ -34,6 +34,7 @@ education:
     - course: Eng in computer science
       institution: Ecole nationale Supérieure d'Informatique, Alger
       year: 2024
+email: ja_laissaoui@esi.dz
 superuser: false
 ---
 Akram Badreddine Laissaoui is a computer science engineering student at ESI (Ecole nationale Supérieure d'Informatique), Algiers.
