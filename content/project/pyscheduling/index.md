@@ -25,8 +25,8 @@ links:
   - name: Documentation
     icon_pack: fab
     icon: google-drive
-    url: https://scheduling-cc.github.io/pyscheduling_doc/
-  - url: https://github.com/scheduling-cc/
+    url: https://scheduling-cc.github.io/pyscheduling/
+  - url: https://github.com/scheduling-cc/pyscheduling
     name: Github repository
     icon_pack: fab
     icon: github
