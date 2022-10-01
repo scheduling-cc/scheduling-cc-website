@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: mohamed_elamine.athmani@utt.fr
+  email: contact.scheduling.cc@gmail.com
   address:
     street: 12 rue Marie Curie CS 42060
     city: Troyes
@@ -35,8 +35,8 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/AthmaniAmine'
+      name: DM US
+      link: 'https://twitter.com/schedulingcc'
 
 design:
   columns: '2'
