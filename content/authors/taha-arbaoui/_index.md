@@ -2,12 +2,12 @@
 title: Taha Arbaoui
 role: Associate Professor at University of Technology of Troyes
 avatar_filename: mvimg_20210910_173031.jpg
-bio: My research interests include Planning and scheduling, Timetabling,
-  Discrete optimization, Heuristics and metaheuristics.
+bio: My research interests include Planning and scheduling, Timetabling, MLxOR,
+  Heuristics and metaheuristics.
 interests:
   - Planning and scheduling
   - Timetabling
-  - Discrete optimization
+  - MLxOR
   - Heuristics and metaheuristics.
 social:
   - icon: envelope
@@ -40,3 +40,4 @@ email: taha.arbaoui@utt.fr
 superuser: false
 highlight_name: true
 ---
+T﻿aha Arbaoui is an associate professor at the University of Technology of Troyes. He holds a PhD in computer science and operations research from the University of Technology of Compiègne where he has been advised by Aziz Moukrim and Jean-Paul Boufflet. His interests span on tackling hard and large-scale combinatorial optimization problems with a particular focus on planning and scheduling.
