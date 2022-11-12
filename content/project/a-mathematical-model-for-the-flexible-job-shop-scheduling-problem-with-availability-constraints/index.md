@@ -16,3 +16,7 @@ A mixed integer model is then developed to solve this problem.
 We carry out a computational study on the proposed benchmark and analyze its performances. 
 Results show that our model can solve small and medium size instances efficiently. 
 We also observe important variation in complexity depending on the class of instance which makes the proposed benchmark interesting to evaluate our approach and further improve the solving process in future works.
+
+
+
+You can download the instances from [here](https://drive.google.com/file/d/1cm-jl6LaGhl2Zkb4Qfa70SG0RLHgVzN_/view?usp=sharing)
